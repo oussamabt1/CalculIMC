@@ -1,0 +1,7 @@
+TP Android Studio - Calcul de l'IMC (Kotlin)
+
+Fichiers a copier dans votre projet CalculIMC (Empty Views Activity) :
+- app/src/main/java/.../MainActivity.kt   -> remplace MainActivity.kt (verifier la ligne "package")
+- app/src/main/res/layout/activity_main.xml -> remplace activity_main.xml
+- app/src/main/res/values/strings.xml     -> remplace strings.xml
+- app/src/main/res/values/colors.xml      -> AJOUTER les 4 lignes <color> dans votre colors.xml existant
